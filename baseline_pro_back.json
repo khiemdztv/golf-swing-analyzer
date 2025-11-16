@@ -1,0 +1,30 @@
+{
+  "impact": {
+    "shoulder_tilt": 35.12564092801382,
+    "head_stability": 10.990545153617859,
+    "weight_shift": 2.3615285754203796,
+    "spine_lateral_bend": 17.347699403762817,
+    "hip_tilt": 51.094104860691345
+  },
+  "follow": {
+    "shoulder_tilt": 16.699185321409253,
+    "head_stability": 3.4956082701683044,
+    "weight_shift": 8.81814956665039,
+    "spine_lateral_bend": 8.393307402729988,
+    "hip_tilt": 19.323037541316708
+  },
+  "top": {
+    "shoulder_tilt": 12.959884641428829,
+    "head_stability": 10.915979743003845,
+    "weight_shift": 2.11065411567688,
+    "spine_lateral_bend": 17.768357694149017,
+    "hip_tilt": 51.15191985340343
+  },
+  "setup": {
+    "shoulder_tilt": 33.611050831325635,
+    "head_stability": 11.242440342903137,
+    "weight_shift": 1.6445368528366089,
+    "spine_lateral_bend": 16.98782742023468,
+    "hip_tilt": 50.54609752945653
+  }
+}

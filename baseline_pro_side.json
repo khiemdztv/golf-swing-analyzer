@@ -1,0 +1,42 @@
+{
+  "impact": {
+    "spine_tilt": 71.82843148927017,
+    "shoulder_rotation": 180.0,
+    "x_factor": 0.0,
+    "knee_flex_avg": 119.68834206643385,
+    "hip_rotation": 180.0,
+    "posture_stability": 21.11680805683136,
+    "lead_arm_angle": 131.0714584731433,
+    "trail_arm_angle": 119.33694787973133
+  },
+  "follow": {
+    "spine_tilt": 21.601354883291165,
+    "shoulder_rotation": 180.0,
+    "x_factor": 0.0,
+    "knee_flex_avg": 124.53721681395292,
+    "hip_rotation": 180.0,
+    "posture_stability": 20.01870572566986,
+    "lead_arm_angle": 168.55310165558393,
+    "trail_arm_angle": 105.26008328295609
+  },
+  "top": {
+    "spine_tilt": 78.2274653004736,
+    "shoulder_rotation": 180.0,
+    "x_factor": 0.0,
+    "knee_flex_avg": 98.5212774461791,
+    "hip_rotation": 180.0,
+    "posture_stability": 21.487632393836975,
+    "lead_arm_angle": 127.93670926969217,
+    "trail_arm_angle": 94.60601084685419
+  },
+  "setup": {
+    "spine_tilt": 71.15425571897498,
+    "shoulder_rotation": 179.99999957311317,
+    "x_factor": 8.537736562175269e-07,
+    "knee_flex_avg": 122.81958467748404,
+    "hip_rotation": 180.0,
+    "posture_stability": 21.888509392738342,
+    "lead_arm_angle": 123.37357362921006,
+    "trail_arm_angle": 87.11951999842601
+  }
+}
